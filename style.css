@@ -92,6 +92,27 @@ a {
 /* Departament */
 .two {
     margin-top: 150px;
+    margin-bottom: 150px;
+    position: relative;
+    z-index: 1;
+}
+.two::after {
+    content: url('assets/img/bgbottom.svg');
+    display: block;
+    position: absolute;
+    right: -15%;
+     top: 58%;
+     overflow: hidden;
+    z-index: -1;
+}
+.two::before {
+    content: url('assets/img/shape.svg');
+    display: block;
+    position: absolute;
+    left: -20%;
+    top: 20%;
+    overflow: hidden;
+    z-index: -1;
 }
 .departament {
   margin-bottom: 90px;
@@ -117,6 +138,7 @@ a {
 .departament__card__item {
     width: calc(100% / 3);
     border-radius: 5px;
+    
 }
 .departament__card__item:first-child {
     background-color: #f9703a;
@@ -146,6 +168,7 @@ a {
 .learning {
   
   display: flex;
+  margin-bottom: 90px;
  
 }
 .learning__circle {
@@ -197,4 +220,75 @@ a {
 }
 .learning__people__item__text {
     font: 400 20px 'Montserrat';
+}
+
+
+/* ///uneversity */
+
+.uneversity__title {
+    font: 700 40px/50px 'Montserrat';
+    text-align: center;
+    color: #252c3a;
+    margin-bottom: 10vh;
+}
+.uneversity__card {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 30px;
+    row-gap: 30px;
+}
+.uneversity__card__item {
+    width: 23%;
+    box-shadow: 0px 0px 3px rgba(0,0,0, 0.3);
+    border-radius: 7px;
+}
+.uneversity__card__item__content {
+    padding: 20px 15px;
+    background-color: #fff;
+}
+.uneversity__card__item img {
+    width: 100%;
+}
+.uneversity__card__item__content__text {
+    font: 500 16px/20px 'Work Sans';
+    color: #252c3a;
+    margin-bottom: 5px;
+}
+.uneversity__card__item__content__domain {
+    font: 700 12px/26px 'Montserrat';
+    color: #5a6e79;
+    
+}
+.uneversity__card__item__content__link {
+    font: 700 14px/17px 'Work Sans'; 
+    color: #5a6e79;
+    display: block;
+    margin-top: 4vh;
+}
+
+.footer {
+    background-color: #252c3a;
+    position: relative;
+    z-index: 1;
+    padding: 50px 0;
+
+}
+.footer__content {
+    display: flex;
+    column-gap: 25px;
+}
+.footer__content__card {
+    width: calc(100% / 4);
+}
+.footer__content__card__text {
+    font: 500 14px/22px 'Work Sans';
+    color: #969595;
+    margin: 2vh 0;
+}
+.footer__content__card__line {
+    width: 100%;
+    display: block;
+    background-color: #303744;
+    height: 1px;
+    color: #969595;
 }
