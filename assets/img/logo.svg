@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg4126"
+    sodipodi:docname="anim-explosion.svg"
+    inkscape:export-filename="./done/anim-explosion3-hd.png"
+    viewBox="0 0 160 160"
+    inkscape:export-xdpi="90"
+    version="1.1"
+    inkscape:export-ydpi="90"
+    inkscape:version="0.48.4 r9939"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="19"
+      pagecolor="#ffffff"
+      inkscape:window-height="1181"
+      inkscape:window-maximized="0"
+      inkscape:zoom="1"
+      inkscape:window-x="0"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer3"
+      inkscape:cx="9.391761"
+      inkscape:cy="34.08055"
+      inkscape:window-width="987"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(0 -892.36)"
+    >
+    <g
+        id="g4723"
+        transform="translate(-2.1429 -5.3571)"
+      >
+      <path
+          id="path4173"
+          d="m43.571 159.29-30-23.571l34.286-50.72 12.143 70.71 46.43-110.71 22.857 68.571 21.429-37.143 5 57.143-49.286 17.143 2.1429 7.1428z"
+          style="fill:#ffce3f;fill-opacity:.58824"
+          transform="translate(0 892.36)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4683"
+          style="fill:#fffc3f;fill-opacity:.58824"
+          d="m95.714 155 63.576-56.071-62.861 20.711 50.711-84.64-94.997 75.71 36.428-90.71-49.285 81.43-34.286-69.287 15 87.857-12.143 3.57 42.143 33.57"
+          sodipodi:nodetypes="ccccccccccc"
+          transform="translate(0 892.36)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4685"
+          d="m113.57 155 42.14-119.29-69.281 88.58 29.281-112.86-39.281 103.57-29.286-101.43l-5 93.571-26.429-88.569 4.286 95.719-12.857 2.85 18.571 17.86-12.857 15.714h52.143l37.857 5.7143z"
+          style="fill:#ff583f;fill-opacity:.58824"
+          transform="translate(0 892.36)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4687"
+          style="fill:#ffdd3f;fill-opacity:.58824"
+          d="m82.857 142.86 62.853-9.29-35.71-23.57 29.29-36.429-59.29 25.715-12.143-47.857-12.857 40.714-27.857-6.429 27.857 32.856l-44.643 12.857 22.5 11.429 37.143-19.29 2.1429 30.714z"
+          sodipodi:nodetypes="cccccccccccccc"
+          transform="translate(0 892.36)"
+          inkscape:connector-curvature="0"
+      />
+    </g
+    >
+  </g
+  >
+  <g
+      id="layer2"
+      style="display:none"
+      inkscape:label="Layer"
+      inkscape:groupmode="layer"
+    >
+    <g
+        id="g4723-5"
+        transform="matrix(.62282 0 0 .62282 28.84 -531.61)"
+      >
+      <path
+          id="path4173-2"
+          d="m43.571 159.29-30-23.571l34.286-50.72 12.143 70.71 46.43-110.71 22.857 68.571 21.429-37.143 5 57.143-49.286 17.143 2.1429 7.1428z"
+          style="fill:#ffce3f;fill-opacity:.58824"
+          transform="translate(0 892.36)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4683-6"
+          style="fill:#fffc3f;fill-opacity:.58824"
+          d="m95.714 155 63.576-56.071-62.861 20.711 50.711-84.64-94.997 75.71 36.428-90.71-49.285 81.43-34.286-69.287 15 87.857-12.143 3.57 42.143 33.57"
+          sodipodi:nodetypes="ccccccccccc"
+          transform="translate(0 892.36)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4685-2"
+          d="m103.2 1024.4 28.547-80.802-46.933 59.997 19.838-76.448-26.611 70.158-19.838-68.706-3.3869 63.384-17.902-59.997 2.9031 64.835-8.7092 1.9354 12.58 12.096-8.7092 10.644h35.321l25.644 3.8708z"
+          style="fill:#ff583f;fill-opacity:.58824"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4687-8"
+          style="fill:#ffdd3f;fill-opacity:.58824"
+          d="m82.857 142.86 62.853-9.29-35.71-23.57 29.29-36.429-59.29 25.715-12.143-47.857-12.857 40.714-27.857-6.429 27.857 32.856l-44.643 12.857 22.5 11.429 37.143-19.29 2.1429 30.714z"
+          sodipodi:nodetypes="cccccccccccccc"
+          transform="translate(0 892.36)"
+          inkscape:connector-curvature="0"
+      />
+    </g
+    >
+  </g
+  >
+  <g
+      id="layer3"
+      style="display:none"
+      inkscape:label="Layer#1"
+      inkscape:groupmode="layer"
+    >
+    <g
+        id="g4723-5-2"
+        transform="matrix(.44333 0 0 .44333 43.584 -355.35)"
+      >
+      <path
+          id="path4173-2-4"
+          d="m43.571 159.29-30-23.571l34.286-50.72 12.143 70.71 46.43-110.71 22.857 68.571 21.429-37.143 5 57.143-49.286 17.143 2.1429 7.1428z"
+          style="fill:#ffce3f;fill-opacity:.58824"
+          transform="translate(0 892.36)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4683-6-5"
+          style="fill:#fffc3f;fill-opacity:.58824"
+          d="m95.714 155 63.576-56.071-62.861 20.711 50.711-84.64-94.997 75.71 36.428-90.71-49.285 81.43-34.286-69.287 15 87.857-12.143 3.57 42.143 33.57"
+          sodipodi:nodetypes="ccccccccccc"
+          transform="translate(0 892.36)"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4687-8-1"
+          sodipodi:nodetypes="cccccccccccccc"
+          d="m81.8 1026.4 49.073-7.2493-27.882-18.402 22.863-28.44-46.284 20.075-9.4799-37.362-10.038 31.786-21.748-5.0188 21.748 25.652-34.853 10.038 17.566 8.9223 28.997-15.056 1.6729 23.979z"
+          style="fill:#ffdd3f;fill-opacity:.58824"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4685-2-4"
+          d="m109.71 1026.6 21.235-60.105-34.911 44.629 14.756-56.865-19.795 52.187-14.756-51.107-2.5194 47.148-13.317-44.629 2.1594 48.228-6.4783 1.4396 9.3576 8.9978-6.4783 7.9179h26.273l19.075 2.8793z"
+          style="fill:#ff583f;fill-opacity:.58824"
+          inkscape:connector-curvature="0"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Simple Cartoon Explosion</dc:title
+        >
+        <dc:date
+          >2013-03-10T11:51:33</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/175656/simple-cartoon-explosion-by-qubodup-175656</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >qubodup</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >bam</rdf:li
+            >
+            <rdf:li
+              >boom</rdf:li
+            >
+            <rdf:li
+              >burn</rdf:li
+            >
+            <rdf:li
+              >burned</rdf:li
+            >
+            <rdf:li
+              >burning</rdf:li
+            >
+            <rdf:li
+              >exploded</rdf:li
+            >
+            <rdf:li
+              >fire</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
