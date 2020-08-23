@@ -40,14 +40,14 @@ a {
 .navbar__item:last-child {
     margin-right: 0;
 }
-.navbar__item__link {
+.navbar__link {
    color: #5a6e79;
    font: 400 16px 'Work Sans';
 }
-.navbar__item__link__active {
+.navbar__link__active {
    color: #ffc178;
 }
-.navbar__item__button {
+.navbar__button {
   padding: 0.6em 1.1em;
   background-color: #fff;
   color: #ffc178;
@@ -150,14 +150,14 @@ a {
     background-color: #ffb258;
     
 }
-.departament-card-item__img {
+.departament-item__img {
     display: block;
     width: 277px;
     margin: 40px auto;
     height: 277px;
 }
 
-.departament-card-item__title {
+.departament-item__title {
     font: 700 30px/28px 'Work Sans';
     color: #fff;
     text-align: center;
@@ -215,10 +215,10 @@ a {
 .learning-people-item span{
     display: block;
 }
-.learning-people-item__title {
+.people-item__title {
  font: 700 40px 'Montserrat';
 }
-.learning-people-item__text {
+.people-item__text {
     font: 400 20px 'Montserrat';
 }
 
@@ -270,7 +270,7 @@ a {
     background-color: #252c3a;
     position: relative;
     z-index: 1;
-    padding: 50px 0;
+    padding-top: 50px;
 
 }
 .footer-content {
@@ -280,7 +280,7 @@ a {
 .footer-card {
     width: calc(100% / 4);
 }
-.footer-card__text {
+.footer-card-text {
     font: 500 14px/22px 'Work Sans';
     color: #969595;
     margin: 2vh 0;
@@ -291,4 +291,88 @@ a {
     background-color: #303744;
     height: 1px;
     color: #969595;
+}
+
+.footer__socials {
+    display: flex;
+    margin-top: 27px;
+}
+.socials__item {
+    margin-right: 25px;
+}
+.socials__link {
+    color: #4a4a4a;
+}
+.socials__link:hover {
+    color: #0089fd;
+}
+.socials__link i {
+    font-size: 18px;
+}
+.footer-title {
+  text-transform: uppercase;
+  color: #fff;
+  font: 500 14px 'Work Sans';
+}
+.footer__menu {
+    margin-top: 40px;
+}
+.footer__menu__item {
+    margin-bottom: 25px;
+}
+.footer__menu__link {
+    font: 500 14px/22px 'Work Sans';
+    color:  #969595;
+}
+.footer__menu__time {
+    font: 500 12px/20px 'Work Sans';
+    color:  #6b6b6b;
+}
+.form-contact {
+  display: flex;
+  height: 40px;
+}
+.form-contact__input {
+    padding-left: 1em;
+    font: 12px 'Work Sans';
+    outline: none;
+    border: none;
+    width: 65%;
+}
+.form-contact__button {
+    border: none;
+    outline: none;
+    background-color: #ffc178;
+    color: #fff;
+    font: 700 12px 'Montserrat';
+    width: 35%;
+    text-transform: uppercase;
+    
+}
+.footer__bottom {
+    background-color: #1d232e;
+    margin-top: 50px;
+    padding: 1.4em 0;
+}
+.copyright {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer__bottom__menu {
+    display: flex;
+}
+.copyright__text {
+    font: 13px 'Work Sans';
+    color: #6b6b6b;
+}
+.bottom__menu__item {
+    margin-right: 20px;
+}
+.bottom__menu__item:last-child {
+    margin-right: 0;
+}
+.bottom__menu__link {
+    font: 13px 'Work Sans';
+    color: #6b6b6b; 
 }
